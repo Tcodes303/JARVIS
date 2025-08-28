@@ -17,7 +17,7 @@ J.A.R.V.I.S. is a cross-platform desktop voice assistant powered by the Gemini A
 ---
 
 ## Installation & Start
-
+Download the correct .zip for your OS and extract it. 
 ### Windows
 ```bash
 cd JARVIS_WIN
