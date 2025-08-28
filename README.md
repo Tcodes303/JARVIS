@@ -42,7 +42,7 @@ python jarvis_linux.py
 
 ### General
 
-To use the AI please go to [Google AI](https://ai.google.dev/) and get yourself a api key for gemini-2.0-flash that you need to paste at
+To use the AI please go to [Google AI](https://ai.google.dev/gemini-api/docs?hl) and get yourself a api key for gemini-2.0-flash that you need to paste at
 ```bash
 API_KEY = "YOUR_API_KEY_HERE"
 ```
